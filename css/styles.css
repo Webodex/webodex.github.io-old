@@ -348,8 +348,9 @@ Hero
 ========================================================================== */
 .hero {
   min-height: 750px;
-  background: url("../img/hero.jpg") center center;
-  background-size: cover;
+  /*background: url("../img/hero.jpg") center center;
+  background-size: cover;*/
+  background-color: #57616d;
   position: relative; }
   .hero .down-arrow a {
     color: #fff; }
